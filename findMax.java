@@ -1,6 +1,6 @@
 package Kunal_DSA;
 
-public class findMax {
+public class FindMax {
     public static void main(String[] args) {
         int[] arr = { 12, 11, 13, 14, 5, 24, -4, -53, 0, 7, 18 };
         System.out.println(isMax(arr));

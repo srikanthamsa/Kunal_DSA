@@ -2,7 +2,7 @@ package Kunal_DSA;
 
 import java.util.Scanner;
 
-public class methods {
+public class Methods {
     public static void main(String[] args) {
         int sum = sum(20, 30);
         System.out.println("The sum is " + sum);

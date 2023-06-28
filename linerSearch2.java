@@ -2,7 +2,7 @@ package Kunal_DSA;
 
 import java.util.Scanner;
 
-public class linerSearch2 {
+public class LinerSearch2 {
     public static void main(String[] args) {
         int[] nums = { 20, 5, 10, 23, 17, 12, 7, 17, 18 };
         Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package Kunal_DSA;
 
 import java.util.Arrays;
 
-public class findIn2DArray {
+public class FindIn2DArray {
     public static void main(String[] args) {
         int[][] arr = {
                 { 45, 18, 7 },

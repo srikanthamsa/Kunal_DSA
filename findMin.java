@@ -1,6 +1,6 @@
 package Kunal_DSA;
 
-public class findMin {
+public class FindMin {
     public static void main(String[] args) {
         int[] array = { -10, 12, 13, 15, 17, 19, 20, 7, 18, 1, 0, -1, -7 };
         System.out.println(min(array));

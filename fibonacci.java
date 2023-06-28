@@ -2,7 +2,7 @@ package Kunal_DSA;
 
 import java.util.Scanner;
 
-public class fibonacci {
+public class Fibonacci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of Fibonacci numbers to generate: ");

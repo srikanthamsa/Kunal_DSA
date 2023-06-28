@@ -2,7 +2,7 @@ package Kunal_DSA;
 
 import java.util.Scanner;
 
-public class searchInString {
+public class SearchInString {
     public static void main(String[] args) {
         String text = "I am the visionary, I am the revolutionary, I am Srikant Freakin' Hamsa";
         Scanner sc = new Scanner(System.in);

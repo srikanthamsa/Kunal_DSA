@@ -2,7 +2,7 @@ package Kunal_DSA;
 
 import java.util.Scanner;
 
-public class linearSearch {
+public class LinearSearch {
     public static void main(String[] args) {
         int[] arr = { 4, 5, 6, 7, 8, 10, 12 };
         Scanner sc = new Scanner(System.in);

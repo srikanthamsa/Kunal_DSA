@@ -1,6 +1,6 @@
 package Kunal_DSA;
 
-public class evenDigits {
+public class EvenDigits {
     public static void main(String[] args) {
         int[] array = { 12, 234, 7869, 90, 126, 10, 15, 20 };
         System.out.println(findNumbers(array));

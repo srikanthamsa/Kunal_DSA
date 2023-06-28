@@ -1,6 +1,6 @@
 package Kunal_DSA;
 
-public class searchInRange {
+public class SearchInRange {
     public static void main(String[] args) {
         int[] numbers = { 10, 12, 14, 15, 4, 7, 18, 11, 24, 69 };
         int key = 69;
