@@ -32,6 +32,5 @@ public class OrderAgnosticsBS {
             }
         }
         return -1;
-
     }
 }
